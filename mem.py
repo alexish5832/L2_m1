@@ -25,4 +25,4 @@ async def programist(ctx):
         picture = discord.File(f)
     await ctx.send(file=picture)
 
-bot.run("MTE1ODAxOTQ2MTM3MTEzNDA5Mw.G2xbnB.7Z4uJYnQUs3o6ZLF9AEsjxm_jxrVFLdPyaKuBM")
+bot.run("MTE1ODAxOTQ2MTM3MTEzNDA5Mw.GLSHfA.aR_BOqCw4PdnVvfMgFIvMro1DRBckbZt1wMj6U")
